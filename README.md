@@ -12,7 +12,7 @@ The Demo_Images.unitypackage is the package for Vuforia [stones-hire](https://ww
 
 CardboardSDKForUnity.unitypackage contains the Cardboard SDK.
 
-vuforia-unity-5-0-5.unitypackage
+vuforia-unity-5-0-5.unitypackage contains all the vuforia prefabs like ARCamera etc.
 
 ## License keys
 You can use this License key or create one on your own:
