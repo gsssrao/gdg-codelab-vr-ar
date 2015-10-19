@@ -14,11 +14,6 @@ CardboardSDKForUnity.unitypackage contains the Cardboard SDK.
 
 vuforia-unity-5-0-5.unitypackage is the Vuforia SDK for Unity. It contains ARCamera, ImageTarget etc.
 
-## License keys
-You can use this License key or create one on your own:
-
-AYvLKW3/////AAAAASwlMj5w2EytlSNnjBlAfylhGOR2uJsgekDudcMU6kkZdE6tQMAusFXX2GubihViu4YA4qT+i+JyTXEt+qvL9J/g31I6cVI86ObyN4X2FgxXJBeJHgTj+KKyRkMlLsC8UxYMLSTIc0zzfADuSM53tWi8H9ojHSOTxuBG9HLv/062gv1tQN58Ldowz2kx8hXgLTepRKf/L+G3JqTPQu2qKovxhblXUO9dvid/JiTvmDOojxPsYrvlDBa2QB1ynTDc2WBy15KCrc8O7uQiHXBEvafIFuCAIPPBWUDne0t+x/YXxwE20EDuVKiSFzsLjOYbAtLyDq6D9FxFD+TrJGNGwgEw2RBdb4uCus7fnrvKEJML
-
 
 ## Resources
 
